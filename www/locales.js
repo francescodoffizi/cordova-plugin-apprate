@@ -241,7 +241,13 @@ Locales.addLocale(new Locale({
   message: "Ti piace %@? Puoi dare il tuo voto nello store. Ti basterà un minuto! Grazie!",
   cancelButtonLabel: "No, grazie",
   laterButtonLabel: "Più tardi",
-  rateButtonLabel: "Valuta ora"
+  rateButtonLabel: "Valuta ora",
+  yesButtonLabel: "Sì!",
+  noButtonLabel: "Non proprio",
+  appRatePromptTitle: 'Ti piace usare %@',
+  feedbackPromptTitle: 'Vorresti darci un tuo feedback?',
+  appRatePromptMessage:'',
+  feedbackPromptMessage:''
 }));
 
 Locales.addLocale(new Locale({
@@ -370,7 +376,7 @@ Locales.addLocale(new Locale({
   message: "%@ பிடித்திருந்தால், நீங்கள் அதை மதிப்பிட ஒரு கணம் எடுக்க முடியுமா? அது ஒரு நிமிடம் தான் எடுக்கும். உங்கள் ஒத்துழைப்புக்கு நன்றி!",
   cancelButtonLabel: "இல்லை, நன்றி",
   laterButtonLabel: "பின்னர் நினைவூட்டு",
-  rateButtonLabel: "இப்போது மதிப்பிடு"
+  rateButtonLabel: "இப்போது மதிப்பிடு"
 }));
 
 Locales.addLocale(new Locale({
